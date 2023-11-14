@@ -1,0 +1,15 @@
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/bin/Debug/net6.0/SpartaDungeon
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/bin/Debug/net6.0/SpartaDungeon.deps.json
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/bin/Debug/net6.0/SpartaDungeon.runtimeconfig.json
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/bin/Debug/net6.0/SpartaDungeon.dll
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/bin/Debug/net6.0/SpartaDungeon.pdb
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/obj/Debug/net6.0/SpartaDungeon.csproj.AssemblyReference.cache
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/obj/Debug/net6.0/SpartaDungeon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/obj/Debug/net6.0/SpartaDungeon.AssemblyInfoInputs.cache
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/obj/Debug/net6.0/SpartaDungeon.AssemblyInfo.cs
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/obj/Debug/net6.0/SpartaDungeon.csproj.CoreCompileInputs.cache
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/obj/Debug/net6.0/SpartaDungeon.dll
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/obj/Debug/net6.0/refint/SpartaDungeon.dll
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/obj/Debug/net6.0/SpartaDungeon.pdb
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/obj/Debug/net6.0/SpartaDungeon.genruntimeconfig.cache
+/Users/yuhachun/Desktop/SpartaDungeon/SpartaDungeon/SpartaDungeon/obj/Debug/net6.0/ref/SpartaDungeon.dll
